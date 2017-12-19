@@ -1,4 +1,4 @@
-# BT
+# node-status-report
 ## Description
 This is a console application that reads and parses status notifications from a number of nodes in a network and generates a report on the latest status of each node.
 
