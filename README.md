@@ -22,12 +22,11 @@ leia DEAD 1508405807468 luke LOST leia
 ```
 
 ## How To Run
-  1. Download source files and navigate to directory
-  2. Compile:
+  1. Compile:
   ```
   javac *.java
   ```
-  3. Execute
+  2. Execute
   ```
   java FileParser data
   ```
