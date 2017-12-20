@@ -75,7 +75,6 @@ public class FileParser {
             if (checkNodeSynchronisation()) {
                 Node n = nodes.get(name);
                 n.setStatus(Status.UNKNOWN);
-                n.setMessage(message);
             }
         }
 
